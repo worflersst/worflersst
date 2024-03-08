@@ -3,7 +3,7 @@ I am Nikita Korchemny, a junior software engineer with 1 year of experience. Exp
 
 📫Reach me out!
 
-![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=white&labelColor=%2326A5E4&link=https%3A%2F%2Ft.me%2Fworflersst)
+[![Mail Badge](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=white&labelColor=%2326A5E4)](https://t.me/worflersst) 
 
 ### Skills
 
